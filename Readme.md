@@ -41,7 +41,7 @@ Bu projede kullanılan başlıca teknolojiler şunlardır:
    ```bash
    git clone https://github.com/SelahattinGngr/your-repo-name.git
    ```
-2. Her mikroservis için Docker imajlarını oluşturun ve Google Container Registry'ye pushlayın.
+2. Her mikroservis için Docker imajlarını oluşturun ve "kubernets-cluster-pods-and-services" dosyasının içerisindeki .yml dosyalarında gerekli yerleri düzenleyin.
 
 3. Kubernetes cluster'ını oluşturun ve mikroservislerinizi deploy edin.
 
